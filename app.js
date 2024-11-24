@@ -1,4 +1,4 @@
-const apiBaseUrl = "https://your-backend-url.com/api/threads"; // Replace with your actual backend URL
+const apiBaseUrl = "https://files-vk0v.onrender.com"; // Replace with your actual backend URL
 
 // Handle navigation
 function showPage(pageId) {
