@@ -1,4 +1,4 @@
-const apiBaseUrl = "https://files-vk0v.onrender.com/api/threads"; // Replace with your actual backend URL
+const apiBaseUrl = "https://render.com/docs/web-services#port-binding"; // Replace with your actual backend URL
 
 // Handle navigation
 function showPage(pageId) {
